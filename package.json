@@ -17,6 +17,6 @@
         "url": "https://github.com/LcRenKai/randomRock.git"
     },
     "dependencies": {
-        "koa": "2.0.0"
+        "koa": "2.15.4"
     }
 }
